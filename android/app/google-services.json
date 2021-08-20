@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "71877091242",
+    "project_id": "ms-analytics-react-native",
+    "storage_bucket": "ms-analytics-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71877091242:android:49362ff2fc060907c455d3",
+        "android_client_info": {
+          "package_name": "com.makingksense.msalanalyticsrn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71877091242-q9556op4jgp6qgplkgcglsa6h49oeuhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makingksense.msalanalyticsrn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "71877091242-7eoe4hba63m1rbnj5ecqd2pm55f4c182.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqFt4if4JDTIyzB92HrOw_1O85buXSOCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71877091242-7eoe4hba63m1rbnj5ecqd2pm55f4c182.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

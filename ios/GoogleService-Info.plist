@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>71877091242-vpcf2dgt9m526cq3f84qs48pcilikq8h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.71877091242-vpcf2dgt9m526cq3f84qs48pcilikq8h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>71877091242-q9556op4jgp6qgplkgcglsa6h49oeuhh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB13OJQSkF-xLLmTCE-G5JY2ct3q6tJisU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>71877091242</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.makingksense.MSAnalyticsFW</string>
+	<key>PROJECT_ID</key>
+	<string>ms-analytics-react-native</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ms-analytics-react-native.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:71877091242:ios:90bfee3a4ea6a41fc455d3</string>
+</dict>
+</plist>
